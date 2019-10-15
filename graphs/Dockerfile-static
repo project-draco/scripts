@@ -1,0 +1,9 @@
+FROM sdc
+
+ADD run-static.sh /
+
+RUN chmod +x /run-static.sh \
+    && apk add --no-cache git
+
+ENTRYPOINT ["/run-static.sh"]
+

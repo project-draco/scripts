@@ -1,0 +1,810 @@
+{
+  "data": {
+    "organization": {
+      "repositories": {
+        "edges": [
+          {
+            "node": {
+              "name": "react-native"
+            }
+          },
+          {
+            "node": {
+              "name": "elasticsearch"
+            }
+          },
+          {
+            "node": {
+              "name": "guava"
+            }
+          },
+          {
+            "node": {
+              "name": "zxing"
+            }
+          },
+          {
+            "node": {
+              "name": "spring-framework"
+            }
+          },
+          {
+            "node": {
+              "name": "libgdx"
+            }
+          },
+          {
+            "node": {
+              "name": "material-dialogs"
+            }
+          },
+          {
+            "node": {
+              "name": "vert.x"
+            }
+          },
+          {
+            "node": {
+              "name": "presto"
+            }
+          },
+          {
+            "node": {
+              "name": "platform_frameworks_base"
+            }
+          },
+          {
+            "node": {
+              "name": "bazel"
+            }
+          },
+          {
+            "node": {
+              "name": "deeplearning4j"
+            }
+          },
+          {
+            "node": {
+              "name": "gradle"
+            }
+          },
+          {
+            "node": {
+              "name": "OpenRefine"
+            }
+          },
+          {
+            "node": {
+              "name": "lucida"
+            }
+          },
+          {
+            "node": {
+              "name": "druid"
+            }
+          },
+          {
+            "node": {
+              "name": "storm"
+            }
+          },
+          {
+            "node": {
+              "name": "intellij-community"
+            }
+          },
+          {
+            "node": {
+              "name": "VitamioBundle"
+            }
+          },
+          {
+            "node": {
+              "name": "cw-omnibus"
+            }
+          },
+          {
+            "node": {
+              "name": "mockito"
+            }
+          },
+          {
+            "node": {
+              "name": "buck"
+            }
+          },
+          {
+            "node": {
+              "name": "openhab"
+            }
+          },
+          {
+            "node": {
+              "name": "cassandra"
+            }
+          },
+          {
+            "node": {
+              "name": "processing"
+            }
+          },
+          {
+            "node": {
+              "name": "robospice"
+            }
+          },
+          {
+            "node": {
+              "name": "actor-platform"
+            }
+          },
+          {
+            "node": {
+              "name": "hackpad"
+            }
+          },
+          {
+            "node": {
+              "name": "smile"
+            }
+          },
+          {
+            "node": {
+              "name": "atmosphere"
+            }
+          },
+          {
+            "node": {
+              "name": "closure-compiler"
+            }
+          },
+          {
+            "node": {
+              "name": "orientdb"
+            }
+          },
+          {
+            "node": {
+              "name": "gocd"
+            }
+          },
+          {
+            "node": {
+              "name": "jna"
+            }
+          },
+          {
+            "node": {
+              "name": "weiciyuan"
+            }
+          },
+          {
+            "node": {
+              "name": "jstorm"
+            }
+          },
+          {
+            "node": {
+              "name": "heron"
+            }
+          },
+          {
+            "node": {
+              "name": "hadoop"
+            }
+          },
+          {
+            "node": {
+              "name": "CoreNLP"
+            }
+          },
+          {
+            "node": {
+              "name": "DraggablePanel"
+            }
+          },
+          {
+            "node": {
+              "name": "ansj_seg"
+            }
+          },
+          {
+            "node": {
+              "name": "Android-IMSI-Catcher-Detector"
+            }
+          },
+          {
+            "node": {
+              "name": "pinpoint"
+            }
+          },
+          {
+            "node": {
+              "name": "JieCaoVideoPlayer"
+            }
+          },
+          {
+            "node": {
+              "name": "h2o-2"
+            }
+          },
+          {
+            "node": {
+              "name": "hibernate-orm"
+            }
+          },
+          {
+            "node": {
+              "name": "zeppelin"
+            }
+          },
+          {
+            "node": {
+              "name": "grails-core"
+            }
+          },
+          {
+            "node": {
+              "name": "phonegap-facebook-plugin"
+            }
+          },
+          {
+            "node": {
+              "name": "android"
+            }
+          },
+          {
+            "node": {
+              "name": "UltimateAndroid"
+            }
+          },
+          {
+            "node": {
+              "name": "cas"
+            }
+          },
+          {
+            "node": {
+              "name": "voldemort"
+            }
+          },
+          {
+            "node": {
+              "name": "hazelcast"
+            }
+          },
+          {
+            "node": {
+              "name": "bigbluebutton"
+            }
+          },
+          {
+            "node": {
+              "name": "XCL-Charts"
+            }
+          },
+          {
+            "node": {
+              "name": "robovm"
+            }
+          },
+          {
+            "node": {
+              "name": "gephi"
+            }
+          },
+          {
+            "node": {
+              "name": "flink"
+            }
+          },
+          {
+            "node": {
+              "name": "aws-sdk-java"
+            }
+          },
+          {
+            "node": {
+              "name": "MinecraftForge"
+            }
+          },
+          {
+            "node": {
+              "name": "jvm-serializers"
+            }
+          },
+          {
+            "node": {
+              "name": "android-material-design-icon-generator-plugin"
+            }
+          },
+          {
+            "node": {
+              "name": "groovy-core"
+            }
+          },
+          {
+            "node": {
+              "name": "VideoPlayerManager"
+            }
+          },
+          {
+            "node": {
+              "name": "QuickReturn"
+            }
+          },
+          {
+            "node": {
+              "name": "groovy"
+            }
+          },
+          {
+            "node": {
+              "name": "jOOQ"
+            }
+          },
+          {
+            "node": {
+              "name": "pinot"
+            }
+          },
+          {
+            "node": {
+              "name": "h2o-3"
+            }
+          },
+          {
+            "node": {
+              "name": "bytecode-viewer"
+            }
+          },
+          {
+            "node": {
+              "name": "XobotOS"
+            }
+          },
+          {
+            "node": {
+              "name": "killbill"
+            }
+          },
+          {
+            "node": {
+              "name": "commons"
+            }
+          },
+          {
+            "node": {
+              "name": "jmonkeyengine"
+            }
+          },
+          {
+            "node": {
+              "name": "FBReaderJ"
+            }
+          },
+          {
+            "node": {
+              "name": "byte-buddy"
+            }
+          },
+          {
+            "node": {
+              "name": "jitsi"
+            }
+          },
+          {
+            "node": {
+              "name": "hive"
+            }
+          },
+          {
+            "node": {
+              "name": "rootbeer1"
+            }
+          },
+          {
+            "node": {
+              "name": "liquibase"
+            }
+          },
+          {
+            "node": {
+              "name": "Twidere-Android"
+            }
+          },
+          {
+            "node": {
+              "name": "WebCollector"
+            }
+          },
+          {
+            "node": {
+              "name": "TileView"
+            }
+          },
+          {
+            "node": {
+              "name": "Openfire"
+            }
+          },
+          {
+            "node": {
+              "name": "Osmand"
+            }
+          },
+          {
+            "node": {
+              "name": "OpenTripPlanner"
+            }
+          },
+          {
+            "node": {
+              "name": "languagetool"
+            }
+          },
+          {
+            "node": {
+              "name": "mdrill"
+            }
+          },
+          {
+            "node": {
+              "name": "voltdb"
+            }
+          },
+          {
+            "node": {
+              "name": "Mizuu"
+            }
+          },
+          {
+            "node": {
+              "name": "BroadleafCommerce"
+            }
+          },
+          {
+            "node": {
+              "name": "CircularFillableLoaders"
+            }
+          },
+          {
+            "node": {
+              "name": "eclipse-themes"
+            }
+          },
+          {
+            "node": {
+              "name": "fabric8"
+            }
+          },
+          {
+            "node": {
+              "name": "gobblin"
+            }
+          },
+          {
+            "node": {
+              "name": "MPS"
+            }
+          },
+          {
+            "node": {
+              "name": "cgeo"
+            }
+          },
+          {
+            "node": {
+              "name": "android-basic-samples"
+            }
+          },
+          {
+            "node": {
+              "name": "drools"
+            }
+          },
+          {
+            "node": {
+              "name": "kotlin"
+            }
+          },
+          {
+            "node": {
+              "name": "neo4j"
+            }
+          },
+          {
+            "node": {
+              "name": "binnavi"
+            }
+          },
+          {
+            "node": {
+              "name": "sonarqube"
+            }
+          },
+          {
+            "node": {
+              "name": "WordPress-Android"
+            }
+          },
+          {
+            "node": {
+              "name": "SeriesGuide"
+            }
+          },
+          {
+            "node": {
+              "name": "jetty.project"
+            }
+          },
+          {
+            "node": {
+              "name": "dbeaver"
+            }
+          },
+          {
+            "node": {
+              "name": "wildfly"
+            }
+          },
+          {
+            "node": {
+              "name": "liferay-portal"
+            }
+          },
+          {
+            "node": {
+              "name": "gwt"
+            }
+          },
+          {
+            "node": {
+              "name": "Terasology"
+            }
+          },
+          {
+            "node": {
+              "name": "zaproxy"
+            }
+          },
+          {
+            "node": {
+              "name": "YCSB"
+            }
+          },
+          {
+            "node": {
+              "name": "camel"
+            }
+          },
+          {
+            "node": {
+              "name": "hbase"
+            }
+          },
+          {
+            "node": {
+              "name": "nutch"
+            }
+          },
+          {
+            "node": {
+              "name": "android-open-project-demo"
+            }
+          },
+          {
+            "node": {
+              "name": "vaadin"
+            }
+          },
+          {
+            "node": {
+              "name": "pentaho-kettle"
+            }
+          },
+          {
+            "node": {
+              "name": "Activiti"
+            }
+          },
+          {
+            "node": {
+              "name": "community-edition"
+            }
+          },
+          {
+            "node": {
+              "name": "basex"
+            }
+          },
+          {
+            "node": {
+              "name": "Catroid"
+            }
+          },
+          {
+            "node": {
+              "name": "eucalyptus"
+            }
+          },
+          {
+            "node": {
+              "name": "restlet-framework-java"
+            }
+          },
+          {
+            "node": {
+              "name": "kaa"
+            }
+          },
+          {
+            "node": {
+              "name": "ambari"
+            }
+          },
+          {
+            "node": {
+              "name": "consulo"
+            }
+          },
+          {
+            "node": {
+              "name": "cloudstack"
+            }
+          },
+          {
+            "node": {
+              "name": "android_packages_apps_Trebuchet"
+            }
+          },
+          {
+            "node": {
+              "name": "structr"
+            }
+          },
+          {
+            "node": {
+              "name": "mage"
+            }
+          },
+          {
+            "node": {
+              "name": "mule"
+            }
+          },
+          {
+            "node": {
+              "name": "openmrs-core"
+            }
+          },
+          {
+            "node": {
+              "name": "jabref"
+            }
+          },
+          {
+            "node": {
+              "name": "wicket"
+            }
+          },
+          {
+            "node": {
+              "name": "geotools"
+            }
+          },
+          {
+            "node": {
+              "name": "i2p.i2p"
+            }
+          },
+          {
+            "node": {
+              "name": "cloudify"
+            }
+          },
+          {
+            "node": {
+              "name": "soapui"
+            }
+          },
+          {
+            "node": {
+              "name": "CloudStack-archive"
+            }
+          },
+          {
+            "node": {
+              "name": "platform_packages_apps_settings"
+            }
+          },
+          {
+            "node": {
+              "name": "keycloak"
+            }
+          },
+          {
+            "node": {
+              "name": "usergrid"
+            }
+          },
+          {
+            "node": {
+              "name": "Anki-Android"
+            }
+          },
+          {
+            "node": {
+              "name": "geoserver"
+            }
+          },
+          {
+            "node": {
+              "name": "kylin"
+            }
+          },
+          {
+            "node": {
+              "name": "jmeter"
+            }
+          },
+          {
+            "node": {
+              "name": "ignite"
+            }
+          },
+          {
+            "node": {
+              "name": "optaplanner"
+            }
+          },
+          {
+            "node": {
+              "name": "intellij-plugins"
+            }
+          },
+          {
+            "node": {
+              "name": "Essentials"
+            }
+          },
+          {
+            "node": {
+              "name": "legacy-jclouds"
+            }
+          },
+          {
+            "node": {
+              "name": "liferay-plugins"
+            }
+          },
+          {
+            "node": {
+              "name": "infinispan"
+            }
+          },
+          {
+            "node": {
+              "name": "lucene-solr"
+            }
+          },
+          {
+            "node": {
+              "name": "ofbiz"
+            }
+          },
+          {
+            "node": {
+              "name": "opencms-core"
+            }
+          },
+          {
+            "node": {
+              "name": "isis"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

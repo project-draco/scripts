@@ -1,0 +1,15 @@
+query {
+  organization(login: "project-draco-hr") {
+    repositories(first: 100) {
+      edges {
+        node {
+          name
+        }
+      }
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+    }
+  }
+}
