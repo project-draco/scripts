@@ -20,7 +20,7 @@ func main() {
 	check(err, "could not read input dir")
 	var input []io.Reader
 	for _, fi := range filesinfo {
-		inputfile, err := os.Open(fi.Name())
+		inputfile, err := os.Open(filepath.Join(os.Args[1], fi.Name()))
 		check(err, "could not open input file")
 		input = append(input, inputfile)
 	}
