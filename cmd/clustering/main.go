@@ -7,6 +7,7 @@ import (
 	"os/exec"
 	"path"
 	"path/filepath"
+	"strings"
 )
 
 func main() {
@@ -25,6 +26,10 @@ func main() {
 		input = append(input, inputfile)
 	}
 	for i := range input {
+		if !strings.HasSuffix(filesinfo[i].Name(), ".mdg") {
+			continue
+		}
+		fmt.Fprintln(os.Stderr, filesinfo[i].Name())
 		outputdir := filepath.Join(os.Args[2], filesinfo[i].Name())
 		err := os.MkdirAll(outputdir, os.ModePerm)
 		check(err, "could not create output dir")
@@ -32,14 +37,15 @@ func main() {
 			"clustering", "--repeat=30", "--output=paretto", "--output-dir="+outputdir,
 		)
 		cmd.Stdin = input[i]
-		out, err := cmd.CombinedOutput()
-		check(err, string(out))
+		cmd.Stderr = os.Stderr
+		err = cmd.Run()
+		check(err, "could not run clustering tool")
 	}
 }
 
 func check(err error, msg string) {
 	if err != nil {
-		fmt.Fprintf(os.Stderr, "%v: %v", msg, err)
+		fmt.Fprintf(os.Stderr, "%v: %v\n", msg, err)
 		os.Exit(1)
 	}
 }
